@@ -36,7 +36,7 @@ public class CustomJavaPluginConfig extends WebMvcConfigurerAdapter {
 				.apiInfo(apiInfo()).includePatterns(".*")
 				.useDefaultResponseMessages(false)
 			//	.pathProvider(new GtPaths())
-				.apiVersion("0.1").swaggerGroup("user");
+				.apiVersion("0.1").swaggerGroup("user").swaggerGroup("user_copy");
 
 	}
 
