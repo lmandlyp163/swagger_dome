@@ -6,13 +6,3 @@ swagger-server-api是一个GUI的WEB接口管理工具，基于 [swagger-ui](htt
 swagger-server-api 可以帮助后台开发人员解放双手，直接用注解生成文档，省去与前端、测试的沟通，以及项目上线后问题的监控和排查。
 
 完美融合Spring MVC,采用注解编写文档
-
-小雷FansUnion-一个有创业和投资经验的资深程序员-全球最大中文IT社区CSDN知名博主-排名第119
-博客：http://blog.csdn.net/fansunion 
-
-
-
-
-
-
-
